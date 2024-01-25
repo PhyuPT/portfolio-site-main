@@ -1,4 +1,4 @@
-<a href="https://sneharatnani.netlify.app/"><h1 align="center">Sneha Ratnani</h1></a>
+<a href="https://sneharatnani.netlify.app/"><h1 align="center">Phyu Phyu Toe</h1></a>
 
 <!--![portfolio site](./public/img/portfolio.png)*/-->
 
@@ -10,7 +10,7 @@ My portfolio built with Next.js and Tailwind CSS. It is available in light as we
 
 ```bash
 # clone repo
-git clone https://github.com/sneharatnani/portfolio-site.git
+git clone https://github.com/phyupt/portfolio-site.git
 
 # changing directory
 cd portfolio-site
