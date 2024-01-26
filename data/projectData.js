@@ -7,7 +7,7 @@ export const projectData = [
       "NoteWind is a note-taking app that allows you to create, edit, delete, and archive notes. Users can sign in and sign out using firebase authentication. You can filter as well as search notes. It also has features like changing note backgrounds, pin and unpin notes, and adding, editing, or removing labels.",
     techStack: "Firebase, React.js, Tailwind CSS, Jest, Testing Library",
     live: "http://notewind.netlify.app/",
-    code: "https://github.com/sneharatnani/notewind",
+    /**code: "https://github.com/sneharatnani/notewind",*/
   },
   {
     name: "Shopping Cart",
@@ -17,7 +17,7 @@ export const projectData = [
       "This is an eCommerce website built with React.js. Users can browse the available products and give orders with a fully functional cart. You can also check individual product details and adjust the number of products you want to buy.",
     techStack: "React.js, Redux, Tailwind CSS",
     live: "https://sneharatnani.github.io/shopping-cart/",
-    code: "https://github.com/sneharatnani/shopping-cart",
+    /**code: "https://github.com/sneharatnani/shopping-cart",*/
   },
   {
     name: "Weather App",
@@ -28,7 +28,7 @@ export const projectData = [
     techStack:
       "JavaScript, HTML, CSS, Webpack, Jest, OpenWeatherMap API, Geolocation API",
     live: "https://sneharatnani.github.io/weather-app/",
-    code: "https://github.com/sneharatnani/weather-app",
+    /**code: "https://github.com/sneharatnani/weather-app",*/
   },
   {
     name: "Memory Game",
@@ -38,7 +38,7 @@ export const projectData = [
       "As the name suggests, it is a game to test players' memory. The emojis shuffle after every selection. The goal is to maximize your score by not selecting the same emoji again. The game shows the current and best score of a player. It is Unit Tested with Jest and React Testing Library.",
     techStack: "React.js, Tailwind CSS, Jest, Testing Library",
     live: "https://sneharatnani.github.io/memory-game/",
-    code: "https://github.com/sneharatnani/memory-game",
+    /**code: "https://github.com/sneharatnani/memory-game",*/
   },
   {
     name: "Calculator",
@@ -48,6 +48,6 @@ export const projectData = [
       "It is a simple Javascript calculator which can handle your daily calculations easily. It also has keyboard support.",
     techStack: "JavaScript, HTML, CSS",
     live: "https://sneharatnani.github.io/calculator/",
-    code: "https://github.com/sneharatnani/calculator",
+    /**code: "https://github.com/sneharatnani/calculator",*/
   },
 ];
