@@ -28,7 +28,7 @@ export default function Layout({ children, metaTitle }) {
         <meta property="og:site_name" content="Sneha Ratnani" />
         <meta
           property="og:description"
-          content="I'm a front-end web developer and designer"
+          content="I'm a Software Engineer."
         />
         <meta property="og:title" content={metaTitle} />
       </Head>
