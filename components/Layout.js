@@ -13,7 +13,7 @@ export default function Layout({ children, metaTitle }) {
         <meta name="robots" content="follow, index" />
         <title>{metaTitle}</title>
         <meta
-          content="I'm a front-end web developer and designer"
+          content="I'm a Software Engineer"
           name="description"
         />
         <meta
